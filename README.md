@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/ganeshhy/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/ganeshhy/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ganeshhy/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ganeshhy/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ganeshhy/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ganeshhy/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 ## Recursion
 |  |
 | ------- |
