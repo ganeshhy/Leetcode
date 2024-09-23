@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ganeshhy/Leetcode/tree/master/0013-roman-to-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ganeshhy/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0328-odd-even-linked-list](https://github.com/ganeshhy/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 | [0908-middle-of-the-linked-list](https://github.com/ganeshhy/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ganeshhy/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
