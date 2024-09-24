@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ganeshhy/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/ganeshhy/Leetcode/tree/master/0066-plus-one) |
 | [0382-linked-list-random-node](https://github.com/ganeshhy/Leetcode/tree/master/0382-linked-list-random-node) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ganeshhy/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ganeshhy/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -40,6 +41,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ganeshhy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ganeshhy/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ganeshhy/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/ganeshhy/Leetcode/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/ganeshhy/Leetcode/tree/master/0162-find-peak-element) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ganeshhy/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
