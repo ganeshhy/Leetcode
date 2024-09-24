@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ganeshhy/Leetcode/tree/master/0013-roman-to-integer) |
+| [0382-linked-list-random-node](https://github.com/ganeshhy/Leetcode/tree/master/0382-linked-list-random-node) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ganeshhy/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ganeshhy/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
@@ -61,6 +62,7 @@
 | [0203-remove-linked-list-elements](https://github.com/ganeshhy/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ganeshhy/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ganeshhy/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/ganeshhy/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 | [0908-middle-of-the-linked-list](https://github.com/ganeshhy/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ganeshhy/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -98,4 +100,12 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/ganeshhy/Leetcode/tree/master/0147-insertion-sort-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/ganeshhy/Leetcode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/ganeshhy/Leetcode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
