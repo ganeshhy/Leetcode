@@ -39,6 +39,7 @@
 | [0015-3sum](https://github.com/ganeshhy/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ganeshhy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ganeshhy/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/ganeshhy/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/ganeshhy/Leetcode/tree/master/0162-find-peak-element) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ganeshhy/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ganeshhy/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/ganeshhy/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/ganeshhy/Leetcode/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
