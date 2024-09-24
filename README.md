@@ -35,6 +35,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ganeshhy/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ganeshhy/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ganeshhy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ganeshhy/Leetcode/tree/master/0027-remove-element) |
 | [0162-find-peak-element](https://github.com/ganeshhy/Leetcode/tree/master/0162-find-peak-element) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ganeshhy/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ganeshhy/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ganeshhy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ganeshhy/Leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/ganeshhy/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ganeshhy/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ganeshhy/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
