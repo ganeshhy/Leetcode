@@ -8,6 +8,7 @@
 | [0141-linked-list-cycle](https://github.com/ganeshhy/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ganeshhy/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ganeshhy/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/ganeshhy/Leetcode/tree/master/0169-majority-element) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 ## Math
 |  |
@@ -48,6 +49,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ganeshhy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ganeshhy/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/ganeshhy/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/ganeshhy/Leetcode/tree/master/0169-majority-element) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ganeshhy/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Binary Search
@@ -61,6 +63,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ganeshhy/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ganeshhy/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/ganeshhy/Leetcode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -113,6 +116,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ganeshhy/Leetcode/tree/master/0015-3sum) |
 | [0147-insertion-sort-list](https://github.com/ganeshhy/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/ganeshhy/Leetcode/tree/master/0169-majority-element) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -143,4 +147,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ganeshhy/Leetcode/tree/master/0136-single-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ganeshhy/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
