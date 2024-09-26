@@ -10,6 +10,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/ganeshhy/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ganeshhy/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ganeshhy/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ganeshhy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 ## Math
 |  |
@@ -52,6 +53,7 @@
 | [0162-find-peak-element](https://github.com/ganeshhy/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ganeshhy/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ganeshhy/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ganeshhy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ganeshhy/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Binary Search
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ganeshhy/Leetcode/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ganeshhy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
