@@ -57,6 +57,7 @@
 | [0217-contains-duplicate](https://github.com/ganeshhy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ganeshhy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ganeshhy/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ganeshhy/Leetcode/tree/master/0283-move-zeroes) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ganeshhy/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Binary Search
@@ -106,6 +107,7 @@
 | [0141-linked-list-cycle](https://github.com/ganeshhy/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ganeshhy/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ganeshhy/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/ganeshhy/Leetcode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/ganeshhy/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Geometry
 |  |
