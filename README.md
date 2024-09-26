@@ -58,6 +58,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ganeshhy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ganeshhy/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ganeshhy/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/ganeshhy/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ganeshhy/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Binary Search
@@ -168,4 +169,12 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ganeshhy/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ganeshhy/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ganeshhy/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
