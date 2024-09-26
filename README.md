@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/ganeshhy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ganeshhy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ganeshhy/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ganeshhy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 ## Math
 |  |
@@ -59,6 +60,7 @@
 | [0268-missing-number](https://github.com/ganeshhy/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ganeshhy/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ganeshhy/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/ganeshhy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ganeshhy/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Binary Search
@@ -68,6 +70,7 @@
 | [0035-search-insert-position](https://github.com/ganeshhy/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/ganeshhy/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ganeshhy/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ganeshhy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,6 +112,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/ganeshhy/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ganeshhy/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/ganeshhy/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ganeshhy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/ganeshhy/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Geometry
 |  |
@@ -130,6 +134,7 @@
 | [0169-majority-element](https://github.com/ganeshhy/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ganeshhy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ganeshhy/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ganeshhy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Reservoir Sampling
 |  |
 | ------- |
