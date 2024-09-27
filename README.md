@@ -25,6 +25,7 @@
 | [0258-add-digits](https://github.com/ganeshhy/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ganeshhy/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ganeshhy/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/ganeshhy/Leetcode/tree/master/0326-power-of-three) |
 | [0382-linked-list-random-node](https://github.com/ganeshhy/Leetcode/tree/master/0382-linked-list-random-node) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ganeshhy/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ganeshhy/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -111,6 +112,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ganeshhy/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ganeshhy/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ganeshhy/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/ganeshhy/Leetcode/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
