@@ -23,6 +23,7 @@
 | [0013-roman-to-integer](https://github.com/ganeshhy/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ganeshhy/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/ganeshhy/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/ganeshhy/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ganeshhy/Leetcode/tree/master/0268-missing-number) |
 | [0382-linked-list-random-node](https://github.com/ganeshhy/Leetcode/tree/master/0382-linked-list-random-node) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ganeshhy/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
