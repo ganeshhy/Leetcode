@@ -158,6 +158,7 @@
 | [0100-same-tree](https://github.com/ganeshhy/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ganeshhy/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ganeshhy/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/ganeshhy/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 | [0100-same-tree](https://github.com/ganeshhy/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ganeshhy/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ganeshhy/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/ganeshhy/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -200,9 +202,11 @@
 | ------- |
 | [0100-same-tree](https://github.com/ganeshhy/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ganeshhy/Leetcode/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/ganeshhy/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ganeshhy/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ganeshhy/Leetcode/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/ganeshhy/Leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
