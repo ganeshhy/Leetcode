@@ -155,6 +155,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ganeshhy/Leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ganeshhy/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -163,6 +164,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ganeshhy/Leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ganeshhy/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -191,4 +193,12 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ganeshhy/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ganeshhy/Leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ganeshhy/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
