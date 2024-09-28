@@ -16,6 +16,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ganeshhy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ganeshhy/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ganeshhy/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/ganeshhy/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ganeshhy/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 ## Math
@@ -40,6 +41,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ganeshhy/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/ganeshhy/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ganeshhy/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/ganeshhy/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ganeshhy/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ganeshhy/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/ganeshhy/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -237,4 +240,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ganeshhy/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ganeshhy/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
