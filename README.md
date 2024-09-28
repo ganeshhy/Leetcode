@@ -26,6 +26,7 @@
 | [0263-ugly-number](https://github.com/ganeshhy/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ganeshhy/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ganeshhy/Leetcode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/ganeshhy/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/ganeshhy/Leetcode/tree/master/0382-linked-list-random-node) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ganeshhy/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ganeshhy/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -83,6 +84,7 @@
 | [0268-missing-number](https://github.com/ganeshhy/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ganeshhy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ganeshhy/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/ganeshhy/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
