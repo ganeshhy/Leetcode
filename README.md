@@ -44,6 +44,7 @@
 | [0383-ransom-note](https://github.com/ganeshhy/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ganeshhy/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ganeshhy/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/ganeshhy/Leetcode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [0283-move-zeroes](https://github.com/ganeshhy/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ganeshhy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ganeshhy/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/ganeshhy/Leetcode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/ganeshhy/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Geometry
 |  |
@@ -195,6 +197,7 @@
 | [0118-pascals-triangle](https://github.com/ganeshhy/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ganeshhy/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ganeshhy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/ganeshhy/Leetcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
