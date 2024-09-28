@@ -17,6 +17,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ganeshhy/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ganeshhy/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ganeshhy/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ganeshhy/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ganeshhy/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 ## Math
@@ -42,6 +43,7 @@
 | [0242-valid-anagram](https://github.com/ganeshhy/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ganeshhy/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ganeshhy/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ganeshhy/Leetcode/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0268-missing-number](https://github.com/ganeshhy/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ganeshhy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ganeshhy/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/ganeshhy/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ganeshhy/Leetcode/tree/master/0414-third-maximum-number) |
 ## Reservoir Sampling
 |  |
@@ -198,6 +201,7 @@
 | [0136-single-number](https://github.com/ganeshhy/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ganeshhy/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ganeshhy/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/ganeshhy/Leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
