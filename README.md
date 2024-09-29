@@ -20,6 +20,7 @@
 | [0389-find-the-difference](https://github.com/ganeshhy/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ganeshhy/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ganeshhy/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/ganeshhy/Leetcode/tree/master/0500-keyboard-row) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 ## Math
 |  |
@@ -46,6 +47,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ganeshhy/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ganeshhy/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ganeshhy/Leetcode/tree/master/0392-is-subsequence) |
+| [0500-keyboard-row](https://github.com/ganeshhy/Leetcode/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ganeshhy/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ganeshhy/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ganeshhy/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/ganeshhy/Leetcode/tree/master/0500-keyboard-row) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ganeshhy/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Binary Search
