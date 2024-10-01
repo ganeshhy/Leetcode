@@ -87,6 +87,7 @@
 | [0496-next-greater-element-i](https://github.com/ganeshhy/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ganeshhy/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/ganeshhy/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/ganeshhy/Leetcode/tree/master/0561-array-partition) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ganeshhy/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Binary Search
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ganeshhy/Leetcode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/ganeshhy/Leetcode/tree/master/0561-array-partition) |
 ## String Matching
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | [0389-find-the-difference](https://github.com/ganeshhy/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ganeshhy/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/ganeshhy/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/ganeshhy/Leetcode/tree/master/0561-array-partition) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -267,4 +270,8 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/ganeshhy/Leetcode/tree/master/0506-relative-ranks) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ganeshhy/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
