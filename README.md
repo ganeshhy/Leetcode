@@ -55,6 +55,7 @@
 | [0392-is-subsequence](https://github.com/ganeshhy/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ganeshhy/Leetcode/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/ganeshhy/Leetcode/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/ganeshhy/Leetcode/tree/master/0520-detect-capital) |
 ## Trie
 |  |
 | ------- |
