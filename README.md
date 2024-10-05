@@ -62,6 +62,7 @@
 | [0409-longest-palindrome](https://github.com/ganeshhy/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/ganeshhy/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ganeshhy/Leetcode/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/ganeshhy/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/ganeshhy/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/ganeshhy/Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ganeshhy/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ganeshhy/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/ganeshhy/Leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Sorting
 |  |
 | ------- |
