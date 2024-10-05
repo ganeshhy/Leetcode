@@ -24,6 +24,7 @@
 | [0496-next-greater-element-i](https://github.com/ganeshhy/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ganeshhy/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/ganeshhy/Leetcode/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ganeshhy/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 ## Math
 |  |
@@ -68,6 +69,7 @@
 | [0521-longest-uncommon-subsequence-i](https://github.com/ganeshhy/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/ganeshhy/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ganeshhy/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ganeshhy/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Trie
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [0506-relative-ranks](https://github.com/ganeshhy/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/ganeshhy/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/ganeshhy/Leetcode/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ganeshhy/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ganeshhy/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Binary Search
