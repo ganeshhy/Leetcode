@@ -66,6 +66,7 @@
 | [0500-keyboard-row](https://github.com/ganeshhy/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/ganeshhy/Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ganeshhy/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0551-student-attendance-record-i](https://github.com/ganeshhy/Leetcode/tree/master/0551-student-attendance-record-i) |
 ## Trie
 |  |
 | ------- |
