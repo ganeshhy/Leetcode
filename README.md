@@ -37,6 +37,7 @@
 | [0326-power-of-three](https://github.com/ganeshhy/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/ganeshhy/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/ganeshhy/Leetcode/tree/master/0382-linked-list-random-node) |
+| [0412-fizz-buzz](https://github.com/ganeshhy/Leetcode/tree/master/0412-fizz-buzz) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ganeshhy/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ganeshhy/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
@@ -58,6 +59,7 @@
 | [0389-find-the-difference](https://github.com/ganeshhy/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ganeshhy/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ganeshhy/Leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/ganeshhy/Leetcode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/ganeshhy/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/ganeshhy/Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ganeshhy/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -270,6 +272,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/ganeshhy/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ganeshhy/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/ganeshhy/Leetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
