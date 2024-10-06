@@ -25,6 +25,7 @@
 | [0500-keyboard-row](https://github.com/ganeshhy/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/ganeshhy/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ganeshhy/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0782-jewels-and-stones](https://github.com/ganeshhy/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 ## Math
 |  |
@@ -71,6 +72,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/ganeshhy/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ganeshhy/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/ganeshhy/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0782-jewels-and-stones](https://github.com/ganeshhy/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Trie
 |  |
 | ------- |
