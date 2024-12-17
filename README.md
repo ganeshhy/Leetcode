@@ -73,6 +73,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ganeshhy/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/ganeshhy/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0782-jewels-and-stones](https://github.com/ganeshhy/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1894-merge-strings-alternately](https://github.com/ganeshhy/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [0392-is-subsequence](https://github.com/ganeshhy/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ganeshhy/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/ganeshhy/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/ganeshhy/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Geometry
 |  |
 | ------- |
