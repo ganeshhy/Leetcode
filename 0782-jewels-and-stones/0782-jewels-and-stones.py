@@ -5,9 +5,11 @@ class Solution(object):
         :type stones: str
         :rtype: int
         """
-        a=0
-        for i in range(len(stones)):
-            if stones[i] in jewels:
-                a+=1
-        return a
+
+        count=0
+        for i in range(len(jewels)):
+            for j in range(len(stones)):
+                if jewels[i]==stones[j]:
+                    count+=1
+        return count
         
