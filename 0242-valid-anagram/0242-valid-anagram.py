@@ -5,13 +5,10 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        st=[]
-        pt=[]
-        st.extend(s)
-        pt.extend(t)
-        st.sort()
-        pt.sort()
-        if st==pt:
+        a=sorted(s)
+        b=sorted(t)
+        if a==b:
             return True
-        return False
+        else:
+            return False
         
