@@ -120,6 +120,7 @@
 | [0561-array-partition](https://github.com/ganeshhy/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/ganeshhy/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ganeshhy/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0792-binary-search](https://github.com/ganeshhy/Leetcode/tree/master/0792-binary-search) |
 | [0835-linked-list-components](https://github.com/ganeshhy/Leetcode/tree/master/0835-linked-list-components) |
 | [1019-squares-of-a-sorted-array](https://github.com/ganeshhy/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ganeshhy/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -134,6 +135,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ganeshhy/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/ganeshhy/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ganeshhy/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0792-binary-search](https://github.com/ganeshhy/Leetcode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
