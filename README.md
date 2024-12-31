@@ -34,6 +34,7 @@
 | [0013-roman-to-integer](https://github.com/ganeshhy/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ganeshhy/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ganeshhy/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/ganeshhy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/ganeshhy/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ganeshhy/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ganeshhy/Leetcode/tree/master/0268-missing-number) |
@@ -254,6 +255,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ganeshhy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ganeshhy/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ganeshhy/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ganeshhy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -330,4 +332,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ganeshhy/Leetcode/tree/master/0561-array-partition) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ganeshhy/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
