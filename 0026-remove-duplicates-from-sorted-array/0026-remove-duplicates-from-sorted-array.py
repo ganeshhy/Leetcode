@@ -6,4 +6,3 @@ class Solution(object):
         """
         nums[:]=sorted(set(nums))
         return len(nums)
-        
