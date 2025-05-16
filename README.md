@@ -98,6 +98,7 @@
 | [0027-remove-element](https://github.com/ganeshhy/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ganeshhy/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ganeshhy/Leetcode/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/ganeshhy/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ganeshhy/Leetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ganeshhy/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ganeshhy/Leetcode/tree/master/0118-pascals-triangle) |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ganeshhy/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ganeshhy/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ganeshhy/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/ganeshhy/Leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/ganeshhy/Leetcode/tree/master/0561-array-partition) |
@@ -262,6 +264,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ganeshhy/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ganeshhy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ganeshhy/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ganeshhy/Leetcode/tree/master/0119-pascals-triangle-ii) |
